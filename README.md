@@ -1,4 +1,3 @@
-# Izabela-Markiewicz.github.io
 # Safe Explorer
 
 This is a project hosted from my GitHub account using a domain created on NameSpace. It is accessible from any browser on any device - try it! 
